@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.FolderContent({ showFolderCount: false })],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       "Email": "mailto:shivamaroramath@gmail.com",
@@ -23,6 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.TagList(),
   ],
+  afterBody: [Component.FolderContent({ showFolderCount: false })],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

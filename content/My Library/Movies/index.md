@@ -1,0 +1,5 @@
+---
+title: Movies
+cssclasses:
+  - gallery
+---

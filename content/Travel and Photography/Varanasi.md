@@ -1,0 +1,1 @@
+![[EmbeddedImage-20.jpg]]

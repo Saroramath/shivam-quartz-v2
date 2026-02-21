@@ -1,0 +1,5 @@
+---
+title: Mathematics
+cssclasses:
+  - gallery
+---

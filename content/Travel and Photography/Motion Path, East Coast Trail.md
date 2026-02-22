@@ -11,61 +11,61 @@ tags:
 ---
 ![[IMG_1579-ANIMATION.gif]]
 
-![[IMG_1483.heic]]
+![[IMG_1483.jpg]]
 
-![[IMG_1495.heic]]
+![[IMG_1495.jpg]]
 
-![[IMG_1499.heic]]
+![[IMG_1499.jpg]]
 
-![[IMG_1520.heic]]
+![[IMG_1520.jpg]]
 
-![[IMG_1529.heic]]
+![[IMG_1529.jpg]]
 
-![[IMG_1531.heic]]
+![[IMG_1531.jpg]]
 
-![[IMG_1550.heic]]
+![[IMG_1550.jpg]]
 
-![[IMG_1561.heic]]
+![[IMG_1561.jpg]]
 
-![[IMG_1567.heic]]
+![[IMG_1567.jpg]]
 
-![[IMG_1589.heic]]
+![[IMG_1589.jpg]]
 
-![[IMG_1591.heic]]
+![[IMG_1591.jpg]]
 
-![[IMG_1592.heic]]
+![[IMG_1592.jpg]]
 
-![[IMG_1599.heic]]
+![[IMG_1599.jpg]]
 
-![[IMG_1602.heic]]
+![[IMG_1602.jpg]]
 
-![[IMG_1606.heic]]
+![[IMG_1606.jpg]]
 
-![[IMG_1622.heic]]
+![[IMG_1622.jpg]]
 
-![[IMG_1641.heic]]
+![[IMG_1641.jpg]]
 
-![[IMG_1685.heic]]
+![[IMG_1685.jpg]]
 
-![[IMG_1691.heic]]
+![[IMG_1691.jpg]]
 
-![[IMG_1695.heic]]
+![[IMG_1695.jpg]]
 
-![[IMG_1698.heic]]
+![[IMG_1698.jpg]]
 
-![[IMG_1699.heic]]
+![[IMG_1699.jpg]]
 
-![[IMG_1700.heic]]
+![[IMG_1700.jpg]]
 
-![[IMG_1701.heic]]
+![[IMG_1701.jpg]]
 
-![[IMG_1712.heic]]
+![[IMG_1712.jpg]]
 
-![[IMG_1714.heic]]
+![[IMG_1714.jpg]]
 
-![[IMG_1721.heic]]
+![[IMG_1721.jpg]]
 
-![[IMG_1731.heic]]
+![[IMG_1731.jpg]]
 
   
 

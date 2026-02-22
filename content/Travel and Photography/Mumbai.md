@@ -2,7 +2,9 @@
 title: Mumbai
 Date:
 coordinates: [19.055, 72.8692]
----![[1585226630405_Scanned_1585210418726.jpg]]
+---
+
+![[1585226630405_Scanned_1585210418726.jpg]]
 
 ![[Scanned_1585209854256.jpg]]
 

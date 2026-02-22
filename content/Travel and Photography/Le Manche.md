@@ -9,16 +9,16 @@ coordinates: [47.1, -52.93]
 
 ![[IMG_4607_Copy.jpg]]
 
-![[IMG_4651.heic]]
+![[IMG_4651.jpg]]
 
-![[IMG_2121.heic]]
+![[IMG_2121.jpg]]
 
-![[IMG_4656.heic]]
+![[IMG_4656.jpg]]
 
 ![[IMG_2199.jpg]]
 
-![[IMG_2076.heic]]
+![[IMG_2076.jpg]]
 
-![[IMG_2095.heic]]
+![[IMG_2095.jpg]]
 
-![[IMG_2093.heic]]
+![[IMG_2093.jpg]]

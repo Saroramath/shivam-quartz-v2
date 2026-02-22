@@ -7,7 +7,7 @@ coordinates: [47.367, -52.983]
 
   
 
-![[IMG_1230.heic]]
+![[IMG_1230.jpg]]
 
 ![[CA0461E2-70C0-42EA-A5AC-81FB78BEEC41.jpg]]
 

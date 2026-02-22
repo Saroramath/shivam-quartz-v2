@@ -1,0 +1,53 @@
+.travel-map-container {
+  margin: 2rem 0 1rem;
+}
+
+.travel-map-title {
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  color: var(--darkgray);
+}
+
+#travel-map {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
+  overflow: hidden;
+  z-index: 0;
+
+  // Ensure Leaflet controls don't conflict with site styles
+  .leaflet-control-zoom a {
+    color: var(--dark);
+    background: var(--light);
+    border-color: var(--lightgray);
+
+    &:hover {
+      background: var(--lightgray);
+    }
+  }
+
+  .leaflet-popup-content-wrapper {
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .leaflet-popup-content {
+    margin: 8px 12px;
+    font-size: 0.9rem;
+    font-family: var(--bodyFont);
+
+    a {
+      color: var(--secondary);
+
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+  }
+
+  // Attribution styling
+  .leaflet-control-attribution {
+    font-size: 0.65rem;
+    background: rgba(255, 255, 255, 0.7);
+  }
+}

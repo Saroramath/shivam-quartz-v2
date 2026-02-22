@@ -23,7 +23,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.TagList(),
   ],
-  afterBody: [Component.FolderContent({ showFolderCount: false })],
+  afterBody: [
+    Component.FolderContent({ showFolderCount: false }),
+    Component.ConditionalRender({
+      component: Component.TravelMap(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

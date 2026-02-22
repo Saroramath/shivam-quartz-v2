@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import { GalleryList } from "./GalleryList"
+import TravelMap from "./TravelMap"
 
 export {
   ArticleTitle,
@@ -52,4 +53,5 @@ export {
   Flex,
   ConditionalRender,
   GalleryList,
+  TravelMap,
 }

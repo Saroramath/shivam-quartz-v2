@@ -24,7 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
-    Component.FolderContent({ showFolderCount: false }),
+    Component.FolderContent({ showFolderCount: false, showContent: false }),
     Component.ConditionalRender({
       component: Component.TravelMap(),
       condition: (page) => page.fileData.slug === "index",

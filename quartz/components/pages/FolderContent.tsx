@@ -17,12 +17,15 @@ interface FolderContentOptions {
    */
   showFolderCount: boolean
   showSubfolders: boolean
+  /** Whether to render page content (set false when used in afterBody to avoid duplicates) */
+  showContent: boolean
   sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   showSubfolders: true,
+  showContent: true,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -99,15 +102,16 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     }
 
     const hasContent = (tree as Root).children.length > 0
-    const content = (
-      !hasContent
-        ? fileData.description
-        : htmlToJsx(fileData.filePath!, tree)
-    ) as ComponentChildren
+    const content = options.showContent
+      ? ((!hasContent
+          ? fileData.description
+          : htmlToJsx(fileData.filePath!, tree)) as ComponentChildren)
+      : null
 
     // Hide the auto-listing when the page has its own content,
     // unless it's a gallery page (which needs the gallery grid).
-    const showListing = !hasContent || isGallery
+    // When showContent is false, always show the listing.
+    const showListing = !hasContent || isGallery || !options.showContent
 
     // Render inline gallery grids for sub-folders listed in frontmatter
     const inlineGalleryNames: string[] =
@@ -129,7 +133,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     return (
       <div class="popover-hint">
-        <article class={classes}>{content}</article>
+        {content && <article class={classes}>{content}</article>}
         {showListing && (
           <div class="page-listing">
             {options.showFolderCount && (

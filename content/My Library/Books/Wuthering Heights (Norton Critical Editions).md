@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Wuthering_Heights_Norton_Critical_Editions.jpg)
+![cover](My%20Library/Books/covers/Wuthering_Heights_Norton_Critical_Editions.jpg)

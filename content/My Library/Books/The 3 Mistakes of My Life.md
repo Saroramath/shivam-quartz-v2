@@ -5,4 +5,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_3_Mistakes_of_My_Life.jpg)
+![cover](My%20Library/Books/covers/The_3_Mistakes_of_My_Life.jpg)

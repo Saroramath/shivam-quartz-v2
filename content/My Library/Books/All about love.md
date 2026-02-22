@@ -8,4 +8,4 @@ Timeline: 2024-07-04
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/All_about_love.jpg)
+![cover](My%20Library/Books/covers/All_about_love.jpg)

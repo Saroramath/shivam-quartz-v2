@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/If_Beale_Street_Could_Talk.jpg)
+![cover](My%20Library/Books/covers/If_Beale_Street_Could_Talk.jpg)

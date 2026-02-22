@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Interpreter_of_Maladies.jpg)
+![cover](My%20Library/Books/covers/Interpreter_of_Maladies.jpg)

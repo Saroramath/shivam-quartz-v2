@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Das_Erdbeben_in_Chili_German_Edition.jpg)
+![cover](My%20Library/Books/covers/Das_Erdbeben_in_Chili_German_Edition.jpg)

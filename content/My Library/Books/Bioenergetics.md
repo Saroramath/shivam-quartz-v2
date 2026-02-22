@@ -8,7 +8,7 @@ Timeline: 2023-02-21
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Bioenergetics.jpg)
+![cover](My%20Library/Books/covers/Bioenergetics.jpg)
 — regain their primary nature, which is the condition of being free, the state of being graceful and the quality of being beautiful. Freedom, grace, and beauty are the natural attributes of every animal organism. Freedom is the absence of inner restraints to the flow of feeling, grace is the expression of this flow in the movement, while beauty is a manifestation of the inner harmony such a flow engenders.
 
   

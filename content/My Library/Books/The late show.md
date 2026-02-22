@@ -7,4 +7,4 @@ Timeline: Invalid date
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_late_show.jpg)
+![cover](My%20Library/Books/covers/The_late_show.jpg)

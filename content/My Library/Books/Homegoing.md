@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Homegoing.jpg)
+![cover](My%20Library/Books/covers/Homegoing.jpg)

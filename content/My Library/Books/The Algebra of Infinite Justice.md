@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Algebra_of_Infinite_Justice.jpg)
+![cover](My%20Library/Books/covers/The_Algebra_of_Infinite_Justice.jpg)

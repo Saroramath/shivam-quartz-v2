@@ -7,4 +7,4 @@ Timeline: 2023-08-11
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Paying_the_land.jpg)
+![cover](My%20Library/Books/covers/Paying_the_land.jpg)

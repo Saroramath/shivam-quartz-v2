@@ -7,4 +7,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_lonely_city.jpg)
+![cover](My%20Library/Books/covers/The_lonely_city.jpg)

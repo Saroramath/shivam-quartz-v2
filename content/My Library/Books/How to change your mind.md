@@ -7,4 +7,4 @@ Timeline: 2024-05-10
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/How_to_change_your_mind.jpg)
+![cover](My%20Library/Books/covers/How_to_change_your_mind.jpg)

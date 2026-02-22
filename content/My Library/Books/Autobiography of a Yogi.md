@@ -7,4 +7,4 @@ Timeline: 2024-04-10
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Autobiography_of_a_Yogi.jpg)
+![cover](My%20Library/Books/covers/Autobiography_of_a_Yogi.jpg)

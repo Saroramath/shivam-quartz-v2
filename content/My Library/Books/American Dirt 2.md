@@ -5,4 +5,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/American_Dirt_2.jpg)
+![cover](My%20Library/Books/covers/American_Dirt_2.jpg)

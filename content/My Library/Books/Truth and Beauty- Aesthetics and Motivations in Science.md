@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Truth_and_Beauty-_Aesthetics_and_Motivations_in_Science.jpg)
+![cover](My%20Library/Books/covers/Truth_and_Beauty-_Aesthetics_and_Motivations_in_Science.jpg)

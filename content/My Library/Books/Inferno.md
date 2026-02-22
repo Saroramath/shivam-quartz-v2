@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Inferno.jpg)
+![cover](My%20Library/Books/covers/Inferno.jpg)

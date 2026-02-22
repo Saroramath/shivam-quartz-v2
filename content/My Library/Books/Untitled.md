@@ -5,4 +5,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Untitled.jpg)
+![cover](My%20Library/Books/covers/Untitled.jpg)

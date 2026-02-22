@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Chronicle_of_a_Death_Foretold.jpg)
+![cover](My%20Library/Books/covers/Chronicle_of_a_Death_Foretold.jpg)

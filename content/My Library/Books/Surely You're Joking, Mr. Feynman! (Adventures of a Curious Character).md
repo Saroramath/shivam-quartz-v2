@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Surely_Youre_Joking_Mr._Feynman_Adventures_of_a_Curious_Character.jpg)
+![cover](My%20Library/Books/covers/Surely_Youre_Joking_Mr._Feynman_Adventures_of_a_Curious_Character.jpg)

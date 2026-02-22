@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Harry_Potter_And_The_Order_Of_The_Phoenix.jpg)
+![cover](My%20Library/Books/covers/Harry_Potter_And_The_Order_Of_The_Phoenix.jpg)

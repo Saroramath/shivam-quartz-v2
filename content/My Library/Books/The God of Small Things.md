@@ -6,4 +6,4 @@ Status:
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/The_God_of_Small_Things.jpg)
+![cover](My%20Library/Books/covers/The_God_of_Small_Things.jpg)

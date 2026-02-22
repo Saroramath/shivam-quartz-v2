@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Adventures_of_Sherlock_Holmes.jpg)
+![cover](My%20Library/Books/covers/The_Adventures_of_Sherlock_Holmes.jpg)

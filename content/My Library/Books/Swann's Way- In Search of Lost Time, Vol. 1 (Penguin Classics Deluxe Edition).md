@@ -6,4 +6,4 @@ Status:
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/Swanns_Way-_In_Search_of_Lost_Time_Vol._1_Penguin_Classics_Deluxe_Edition.jpg)
+![cover](My%20Library/Books/covers/Swanns_Way-_In_Search_of_Lost_Time_Vol._1_Penguin_Classics_Deluxe_Edition.jpg)

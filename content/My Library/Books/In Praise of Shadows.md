@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/In_Praise_of_Shadows.jpg)
+![cover](My%20Library/Books/covers/In_Praise_of_Shadows.jpg)

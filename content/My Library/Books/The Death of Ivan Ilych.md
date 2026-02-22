@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Death_of_Ivan_Ilych.jpg)
+![cover](My%20Library/Books/covers/The_Death_of_Ivan_Ilych.jpg)

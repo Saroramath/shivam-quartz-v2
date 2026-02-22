@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Life_Without_Principle.jpg)
+![cover](My%20Library/Books/covers/Life_Without_Principle.jpg)

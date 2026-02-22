@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Secret_of_the_Nagas_Shiva_Trilogy.jpg)
+![cover](My%20Library/Books/covers/The_Secret_of_the_Nagas_Shiva_Trilogy.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/A_Hunger_Artist.jpg)
+![cover](My%20Library/Books/covers/A_Hunger_Artist.jpg)

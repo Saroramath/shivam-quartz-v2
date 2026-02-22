@@ -7,4 +7,4 @@ Timeline: Invalid date
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Talking_to_Strangers-_What_We_Should_Know_about_the_People_We_Dont_Know.jpg)
+![cover](My%20Library/Books/covers/Talking_to_Strangers-_What_We_Should_Know_about_the_People_We_Dont_Know.jpg)

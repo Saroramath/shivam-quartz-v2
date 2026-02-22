@@ -9,4 +9,4 @@ Timeline: 2023-03-23
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_years.jpg)
+![cover](My%20Library/Books/covers/The_years.jpg)

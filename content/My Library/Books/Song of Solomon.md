@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Song_of_Solomon.jpg)
+![cover](My%20Library/Books/covers/Song_of_Solomon.jpg)

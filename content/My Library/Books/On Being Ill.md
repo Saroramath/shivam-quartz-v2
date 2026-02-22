@@ -6,4 +6,4 @@ Status:
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/On_Being_Ill.jpg)
+![cover](My%20Library/Books/covers/On_Being_Ill.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Maples_Stories_Everymans_Library_Pocket_Classics.jpg)
+![cover](My%20Library/Books/covers/The_Maples_Stories_Everymans_Library_Pocket_Classics.jpg)

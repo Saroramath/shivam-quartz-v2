@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Library_of_Babel.jpg)
+![cover](My%20Library/Books/covers/The_Library_of_Babel.jpg)

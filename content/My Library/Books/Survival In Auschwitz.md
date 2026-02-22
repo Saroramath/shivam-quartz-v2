@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Survival_In_Auschwitz.jpg)
+![cover](My%20Library/Books/covers/Survival_In_Auschwitz.jpg)

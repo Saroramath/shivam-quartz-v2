@@ -7,4 +7,4 @@ Timeline: 2021-07-04
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Nickel_Boys-_A_Novel.jpg)
+![cover](My%20Library/Books/covers/The_Nickel_Boys-_A_Novel.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Book_of_Laughter_and_Forgetting.jpg)
+![cover](My%20Library/Books/covers/The_Book_of_Laughter_and_Forgetting.jpg)

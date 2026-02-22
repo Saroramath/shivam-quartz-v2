@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/No_Ordinary_Genius-_The_Illustrated_Richard_Feynman.jpg)
+![cover](My%20Library/Books/covers/No_Ordinary_Genius-_The_Illustrated_Richard_Feynman.jpg)

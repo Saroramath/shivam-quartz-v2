@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Hundred_years_of_solitude.jpg)
+![cover](My%20Library/Books/covers/Hundred_years_of_solitude.jpg)

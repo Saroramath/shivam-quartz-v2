@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Malgudi_Days_Penguin_Classics.jpg)
+![cover](My%20Library/Books/covers/Malgudi_Days_Penguin_Classics.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Dictionary_of_the_Undoing.jpg)
+![cover](My%20Library/Books/covers/Dictionary_of_the_Undoing.jpg)

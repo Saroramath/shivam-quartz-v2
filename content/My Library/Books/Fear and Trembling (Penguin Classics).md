@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Fear_and_Trembling_Penguin_Classics.jpg)
+![cover](My%20Library/Books/covers/Fear_and_Trembling_Penguin_Classics.jpg)

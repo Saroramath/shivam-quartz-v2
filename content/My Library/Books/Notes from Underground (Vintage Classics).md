@@ -6,4 +6,4 @@ Status:
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/Notes_from_Underground_Vintage_Classics.jpg)
+![cover](My%20Library/Books/covers/Notes_from_Underground_Vintage_Classics.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Forty_Rules_of_Love-_A_Novel_of_Rumi.jpg)
+![cover](My%20Library/Books/covers/The_Forty_Rules_of_Love-_A_Novel_of_Rumi.jpg)

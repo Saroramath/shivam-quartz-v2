@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Of_Mice_and_Men.jpg)
+![cover](My%20Library/Books/covers/Of_Mice_and_Men.jpg)

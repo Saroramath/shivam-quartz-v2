@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Picture_of_Dorian_Gray_Modern_Library_Classics.jpg)
+![cover](My%20Library/Books/covers/The_Picture_of_Dorian_Gray_Modern_Library_Classics.jpg)

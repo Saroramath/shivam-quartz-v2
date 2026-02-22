@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Ocean_Sea.jpg)
+![cover](My%20Library/Books/covers/Ocean_Sea.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/Book_of_Disquietude.jpg)
+![cover](My%20Library/Books/covers/Book_of_Disquietude.jpg)

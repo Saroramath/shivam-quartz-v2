@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Boat_People.jpg)
+![cover](My%20Library/Books/covers/The_Boat_People.jpg)

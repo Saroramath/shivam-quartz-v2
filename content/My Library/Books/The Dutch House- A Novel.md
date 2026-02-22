@@ -7,4 +7,4 @@ Timeline: 2020-07-31
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Dutch_House-_A_Novel.jpg)
+![cover](My%20Library/Books/covers/The_Dutch_House-_A_Novel.jpg)

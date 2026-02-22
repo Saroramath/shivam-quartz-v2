@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Immortals_of_Meluha_The_Shiva_Trilogy_Book_1.jpg)
+![cover](My%20Library/Books/covers/Immortals_of_Meluha_The_Shiva_Trilogy_Book_1.jpg)

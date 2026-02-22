@@ -7,4 +7,4 @@ Timeline: 2024-09-13
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Bad_English.jpg)
+![cover](My%20Library/Books/covers/Bad_English.jpg)

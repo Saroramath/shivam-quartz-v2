@@ -7,4 +7,4 @@ Timeline: 2021-06-19
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/Anxious_People-_A_Novel.jpg)
+![cover](My%20Library/Books/covers/Anxious_People-_A_Novel.jpg)

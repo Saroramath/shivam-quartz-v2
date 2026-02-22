@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Dream_Of_A_Ridiculous_Man.jpg)
+![cover](My%20Library/Books/covers/The_Dream_Of_A_Ridiculous_Man.jpg)

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Clouds_Clarendon_Paperbacks.jpg)
+![cover](My%20Library/Books/covers/Clouds_Clarendon_Paperbacks.jpg)

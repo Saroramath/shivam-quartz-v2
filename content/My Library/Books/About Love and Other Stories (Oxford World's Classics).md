@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/About_Love_and_Other_Stories_Oxford_Worlds_Classics.jpg)
+![cover](My%20Library/Books/covers/About_Love_and_Other_Stories_Oxford_Worlds_Classics.jpg)

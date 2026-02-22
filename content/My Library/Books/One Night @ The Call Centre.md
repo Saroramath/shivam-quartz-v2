@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/One_Night__The_Call_Centre.jpg)
+![cover](My%20Library/Books/covers/One_Night__The_Call_Centre.jpg)

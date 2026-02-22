@@ -33,7 +33,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))
-    if (!folder) {
+    if (!folder || !folder.isFolder) {
       return null
     }
 

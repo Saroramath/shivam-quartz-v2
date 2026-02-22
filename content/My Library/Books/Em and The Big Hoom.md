@@ -6,5 +6,5 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Em_and_The_Big_Hoom.jpg)
+![cover](My%20Library/Books/covers/Em_and_The_Big_Hoom.jpg)
 A great book

@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Harry_Potter_and_the_Deathly_Hallows_Book_7.jpg)
+![cover](My%20Library/Books/covers/Harry_Potter_and_the_Deathly_Hallows_Book_7.jpg)

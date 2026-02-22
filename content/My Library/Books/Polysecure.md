@@ -8,5 +8,5 @@ Timeline: Invalid date
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Polysecure.jpg)
+![cover](My%20Library/Books/covers/Polysecure.jpg)
 # Chapter 1: An overview of attachment theory

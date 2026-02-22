@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Hinduism_a_Beautiful_Mosaic_Anthroscience_minigraph_series.jpg)
+![cover](My%20Library/Books/covers/Hinduism_a_Beautiful_Mosaic_Anthroscience_minigraph_series.jpg)

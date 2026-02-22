@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Sense_of_an_Ending.jpg)
+![cover](My%20Library/Books/covers/The_Sense_of_an_Ending.jpg)

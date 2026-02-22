@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/21_Lessons_for_the_21st_Century.jpg)
+![cover](My%20Library/Books/covers/21_Lessons_for_the_21st_Century.jpg)

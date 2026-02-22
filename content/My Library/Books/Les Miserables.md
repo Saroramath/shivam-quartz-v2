@@ -6,7 +6,7 @@ Status:
 Favorite: true
 ---
 
-![cover](My Library/Books/covers/Les_Miserables.jpg)
+![cover](My%20Library/Books/covers/Les_Miserables.jpg)
 "A saint who dwells in a paroxysm of abnegation is a dangerous neighbor; he might communicate to you, by contagion, an incurable poverty, an anchylosis of the joints, which are useful in advancement, and in short, more renunciation than you desire; and this infectious virtue is avoided."
 
 “Cities make ferocious men because they make corrupt men. The mountains, the sea, the forest, make savage men; they develop the fierce side, but often without destroying the humane side.”

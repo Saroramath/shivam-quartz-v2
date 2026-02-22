@@ -7,4 +7,4 @@ Timeline: 2020-09-02
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Mans_Search_for_Meaning.jpg)
+![cover](My%20Library/Books/covers/Mans_Search_for_Meaning.jpg)

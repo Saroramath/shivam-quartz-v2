@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Love_in_the_Time_of_Cholera.jpg)
+![cover](My%20Library/Books/covers/Love_in_the_Time_of_Cholera.jpg)

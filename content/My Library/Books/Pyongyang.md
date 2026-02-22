@@ -7,4 +7,4 @@ Timeline: Invalid date
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Pyongyang.jpg)
+![cover](My%20Library/Books/covers/Pyongyang.jpg)

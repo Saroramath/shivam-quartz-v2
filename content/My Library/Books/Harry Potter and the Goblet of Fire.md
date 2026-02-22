@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Harry_Potter_and_the_Goblet_of_Fire.jpg)
+![cover](My%20Library/Books/covers/Harry_Potter_and_the_Goblet_of_Fire.jpg)

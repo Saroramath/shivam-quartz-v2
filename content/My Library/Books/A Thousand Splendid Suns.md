@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/A_Thousand_Splendid_Suns.jpg)
+![cover](My%20Library/Books/covers/A_Thousand_Splendid_Suns.jpg)

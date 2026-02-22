@@ -7,4 +7,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_outsider.jpg)
+![cover](My%20Library/Books/covers/The_outsider.jpg)

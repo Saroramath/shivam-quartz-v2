@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/Men_Without_Women-_Stories_Vintage_International.jpg)
+![cover](My%20Library/Books/covers/Men_Without_Women-_Stories_Vintage_International.jpg)

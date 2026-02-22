@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/The_Mayor_of_Casterbridge_Penguin_Classics.jpg)
+![cover](My%20Library/Books/covers/The_Mayor_of_Casterbridge_Penguin_Classics.jpg)

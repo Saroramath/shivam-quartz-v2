@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/We_Should_All_Be_Feminists.jpg)
+![cover](My%20Library/Books/covers/We_Should_All_Be_Feminists.jpg)

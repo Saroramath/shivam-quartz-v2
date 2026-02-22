@@ -6,4 +6,4 @@ Status:
 Favorite: false
 ---
 
-![cover](My Library/Books/covers/If_on_a_Winters_Night_a_Traveller.jpg)
+![cover](My%20Library/Books/covers/If_on_a_Winters_Night_a_Traveller.jpg)

@@ -1,8 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { resolveRelative, FullSlug } from "../util/path"
-import { QuartzPluginData } from "../plugins/vfile"
-import { visit } from "unist-util-visit"
-import { Root, Element } from "hast"
+import { FullSlug } from "../util/path"
+import { extractFirstImageSrc, resolveImageToAbsolute } from "../util/image"
 // @ts-ignore
 import script from "./scripts/travelmap.inline"
 import style from "./styles/travelMap.scss"
@@ -20,37 +18,6 @@ const defaultOptions: TravelMapOptions = {
   title: "Places I've Been",
   height: 400,
   folderFilter: undefined,
-}
-
-function extractFirstImageSrc(page: QuartzPluginData): string | null {
-  const fm = page.frontmatter as Record<string, unknown> | undefined
-  if (fm?.socialImage && typeof fm.socialImage === "string") return fm.socialImage
-  if (fm?.image && typeof fm.image === "string") return fm.image
-  if (fm?.cover && typeof fm.cover === "string") return fm.cover
-
-  const htmlAst = (page as Record<string, unknown>).htmlAst as Root | undefined
-  if (!htmlAst) return null
-
-  let firstSrc: string | null = null
-  visit(htmlAst, "element", (node: Element) => {
-    if (firstSrc) return
-    if (node.tagName === "img" && typeof node.properties?.src === "string") {
-      firstSrc = node.properties.src as string
-    }
-  })
-  return firstSrc
-}
-
-function resolveImageToAbsolute(imageSrc: string, pageSlug: FullSlug): string | null {
-  if (imageSrc.startsWith("http://") || imageSrc.startsWith("https://") || imageSrc.startsWith("data:")) {
-    return imageSrc
-  }
-  try {
-    const url = new URL(imageSrc, `https://base.com/${pageSlug}`)
-    return url.pathname.slice(1) // absolute path from root
-  } catch {
-    return null
-  }
 }
 
 export default ((userOpts?: Partial<TravelMapOptions>) => {
@@ -93,7 +60,6 @@ export default ((userOpts?: Partial<TravelMapOptions>) => {
         <div
           id="travel-map"
           data-locations={JSON.stringify(locations)}
-          data-base={fileData.slug!}
           style={`height: ${opts.height}px;`}
         />
       </div>

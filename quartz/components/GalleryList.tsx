@@ -1,57 +1,12 @@
 import { resolveRelative, FullSlug } from "../util/path"
-import { QuartzPluginData } from "../plugins/vfile"
+import { extractFirstImageSrc, resolveImageToAbsolute } from "../util/image"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { SortFn, byDateAndAlphabetical } from "./PageList"
-import { visit } from "unist-util-visit"
-import { Root, Element } from "hast"
 
 type Props = {
   limit?: number
   sort?: SortFn
 } & QuartzComponentProps
-
-function extractFirstImageSrc(page: QuartzPluginData): string | null {
-  // Check frontmatter fields first
-  const fm = page.frontmatter as Record<string, unknown> | undefined
-  if (fm?.socialImage && typeof fm.socialImage === "string") return fm.socialImage
-  if (fm?.image && typeof fm.image === "string") return fm.image
-  if (fm?.cover && typeof fm.cover === "string") return fm.cover
-
-  // Walk the HTML AST to find the first <img> element
-  const htmlAst = (page as Record<string, unknown>).htmlAst as Root | undefined
-  if (!htmlAst) return null
-
-  let firstSrc: string | null = null
-  visit(htmlAst, "element", (node: Element) => {
-    if (firstSrc) return
-    if (node.tagName === "img" && typeof node.properties?.src === "string") {
-      firstSrc = node.properties.src as string
-    }
-  })
-
-  return firstSrc
-}
-
-function resolveImageForFolder(
-  imageSrc: string,
-  pageSlug: FullSlug,
-  folderSlug: FullSlug,
-): string {
-  // External URL — use as-is
-  if (imageSrc.startsWith("http://") || imageSrc.startsWith("https://") || imageSrc.startsWith("data:")) {
-    return imageSrc
-  }
-
-  // The src is relative to the page's location (set by CrawlLinks transformer).
-  // Resolve it to an absolute path using URL resolution, then make it relative to the folder page.
-  try {
-    const url = new URL(imageSrc, `https://base.com/${pageSlug}`)
-    const absolutePath = url.pathname.slice(1) // remove leading /
-    return resolveRelative(folderSlug, absolutePath as FullSlug)
-  } catch {
-    return imageSrc
-  }
-}
 
 export const GalleryList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabetical(cfg)
@@ -66,10 +21,11 @@ export const GalleryList: QuartzComponent = ({ cfg, fileData, allFiles, limit, s
         const title = page.frontmatter?.title
         const href = resolveRelative(fileData.slug!, page.slug!)
         const rawSrc = extractFirstImageSrc(page)
-        const imageSrc =
-          rawSrc && page.slug
-            ? resolveImageForFolder(rawSrc, page.slug, fileData.slug!)
-            : null
+        let imageSrc: string | null = null
+        if (rawSrc && page.slug) {
+          const abs = resolveImageToAbsolute(rawSrc, page.slug)
+          imageSrc = abs ? resolveRelative(fileData.slug!, abs as FullSlug) : null
+        }
 
         return (
           <a href={href} class="gallery-card internal">

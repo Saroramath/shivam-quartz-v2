@@ -1,5 +1,7 @@
 ---
-Date: Invalid date
+title: Miawpukek First Nation
+Date:
+coordinates: [47.8672, -55.7559]
 tags:
   - Camping
 ---

@@ -1,5 +1,5 @@
 ---
-title: Travel and Photography
+title: Travel Log
 cssclasses:
   - gallery
 ---

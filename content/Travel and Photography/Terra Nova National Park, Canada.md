@@ -1,5 +1,7 @@
 ---
+title: Terra Nova National Park, Canada
 Date: 2018-10-09
+coordinates: [48.55, -53.97]
 ---
   
 

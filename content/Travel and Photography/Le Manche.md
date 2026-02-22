@@ -1,5 +1,7 @@
 ---
-Date: Invalid date
+title: Le Manche
+Date:
+coordinates: [47.1, -52.93]
 ---
 ![[IMG_2136.jpg]]
 

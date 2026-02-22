@@ -1,7 +1,9 @@
 ---
+title: Motion Path, East Coast Trail
+Date:
+coordinates: [47.48, -52.73]
 Database:
   - Travel log
-Date: Invalid date
 tags:
   - Camping
   - East-Coast-Trail

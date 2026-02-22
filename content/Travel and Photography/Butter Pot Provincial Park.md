@@ -1,5 +1,7 @@
 ---
-Date: Invalid date
+title: Butter Pot Provincial Park
+Date:
+coordinates: [47.367, -52.983]
 ---
 ![[D6CCAD10-4DA6-4487-89F8-E1B06858B1AE.jpg]]
 

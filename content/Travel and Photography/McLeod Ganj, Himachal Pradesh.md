@@ -1,5 +1,7 @@
 ---
-Date: Invalid date
+title: McLeod Ganj, Himachal Pradesh
+Date:
+coordinates: [32.24, 76.32]
 ---
   
 

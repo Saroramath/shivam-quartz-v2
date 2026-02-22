@@ -1,5 +1,7 @@
 ---
-Date: Invalid date
+title: Swift Current
+Date:
+coordinates: [47.27, -53.97]
 ---
 ![[IMG_1842.jpeg]]
 

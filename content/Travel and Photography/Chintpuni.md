@@ -1,4 +1,8 @@
-![[Scanned_1585202119292.jpg]]
+---
+title: Chintpuni
+Date:
+coordinates: [31.52, 76.58]
+---![[Scanned_1585202119292.jpg]]
 
 ![[Scanned_1585205797522.jpg]]
 

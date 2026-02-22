@@ -1,1 +1,5 @@
-![[EmbeddedImage-22.jpg]]
+---
+title: Pithoragarh
+Date:
+coordinates: [29.5859, 80.2152]
+---![[EmbeddedImage-22.jpg]]

@@ -1,6 +1,6 @@
 ---
 title: Tirumala Tirupati
-Date:
+date:
 coordinates: [13.6833, 79.3472]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Almora
-Date:
+date:
 coordinates: [29.7027, 79.4326]
 ---
 

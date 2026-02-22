@@ -1,6 +1,6 @@
 ---
 title: Barog, Himachal Pradesh
-Date:
+date:
 coordinates: [30.9, 77.07]
 ---
 

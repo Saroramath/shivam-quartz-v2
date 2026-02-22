@@ -1,6 +1,6 @@
 ---
 title: Pithoragarh
-Date:
+date:
 coordinates: [29.5859, 80.2152]
 ---
 

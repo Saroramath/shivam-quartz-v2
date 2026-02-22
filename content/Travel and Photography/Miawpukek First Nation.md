@@ -1,6 +1,6 @@
 ---
 title: Miawpukek First Nation
-Date:
+date: 2022-07-01
 coordinates: [47.8672, -55.7559]
 tags:
   - Camping

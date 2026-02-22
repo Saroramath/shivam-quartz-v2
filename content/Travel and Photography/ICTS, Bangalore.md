@@ -1,6 +1,6 @@
 ---
 title: ICTS, Bangalore
-Date:
+date:
 coordinates: [13.0827, 77.58]
 ---
 

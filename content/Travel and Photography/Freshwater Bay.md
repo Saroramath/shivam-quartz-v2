@@ -1,6 +1,6 @@
 ---
 title: Freshwater Bay
-Date: 2021-08-05
+date: 2021-08-05
 coordinates: [47.59, -52.72]
 Database:
   - Travel log

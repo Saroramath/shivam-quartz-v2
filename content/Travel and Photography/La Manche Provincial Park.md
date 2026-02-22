@@ -1,6 +1,6 @@
 ---
 title: La Manche Provincial Park
-Date:
+date:
 coordinates: [47.1, -52.93]
 ---
 

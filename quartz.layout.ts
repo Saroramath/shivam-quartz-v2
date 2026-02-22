@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { byFrontmatterDate } from "./quartz/components/PageList"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -24,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
-    Component.FolderContent({ showFolderCount: false, showContent: false }),
+    Component.FolderContent({ showFolderCount: false, showContent: false, sort: byFrontmatterDate }),
     Component.ConditionalRender({
       component: Component.TravelMap(),
       condition: (page) => page.fileData.slug === "index",

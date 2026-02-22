@@ -1,6 +1,6 @@
 ---
 title: Palampur, Himachal Pradesh
-Date:
+date:
 coordinates: [32.11, 76.53]
 ---
 

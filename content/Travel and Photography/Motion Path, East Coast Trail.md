@@ -1,6 +1,6 @@
 ---
 title: Motion Path, East Coast Trail
-Date:
+date: 2021-07-03
 coordinates: [47.48, -52.73]
 Database:
   - Travel log

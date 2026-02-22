@@ -1,6 +1,6 @@
 ---
 title: Mumbai
-Date:
+date:
 coordinates: [19.055, 72.8692]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ranthambore National Park
-Date:
+date:
 coordinates: [26.0173, 76.5026]
 ---
 

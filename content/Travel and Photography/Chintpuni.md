@@ -1,6 +1,6 @@
 ---
 title: Chintpuni
-Date:
+date:
 coordinates: [31.52, 76.58]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sapna Ranch, Maharashtra
-Date:
+date:
 coordinates: [19.0, 73.5]
 ---
 

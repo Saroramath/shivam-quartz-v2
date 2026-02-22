@@ -1,6 +1,6 @@
 ---
 title: Butter Pot Provincial Park
-Date:
+date: 2021-06-26
 coordinates: [47.367, -52.983]
 ---
 ![[D6CCAD10-4DA6-4487-89F8-E1B06858B1AE.jpg]]

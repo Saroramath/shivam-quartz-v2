@@ -1,6 +1,6 @@
 ---
 title: Newfoundland Screech at Middle Cove
-Date: 2021-06-27
+date: 2021-06-27
 coordinates: [47.64, -52.67]
 ---
 ![[F661BEA1-3496-446A-B6E2-ED4D4E8247EC.jpg]]

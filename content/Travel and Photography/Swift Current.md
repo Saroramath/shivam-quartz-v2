@@ -1,6 +1,6 @@
 ---
 title: Swift Current
-Date:
+date: 2021-04-24
 coordinates: [47.27, -53.97]
 ---
 ![[IMG_1842.jpeg]]

@@ -1,6 +1,6 @@
 ---
 title: Keoladeo National Park
-Date:
+date:
 coordinates: [27.1651, 77.5187]
 ---
 

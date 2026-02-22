@@ -1,6 +1,6 @@
 ---
 title: Chennai
-Date:
+date:
 coordinates: [13.0837, 80.2702]
 ---
 

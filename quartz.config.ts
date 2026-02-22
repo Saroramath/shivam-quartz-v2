@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { byFrontmatterDate } from "./quartz/components/PageList"
 
 /**
  * Quartz 4 Configuration
@@ -76,7 +77,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({ sort: byFrontmatterDate }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,

@@ -1,6 +1,6 @@
 ---
 title: Petty Harbour
-Date:
+date:
 coordinates: [47.467, -52.717]
 ---
 

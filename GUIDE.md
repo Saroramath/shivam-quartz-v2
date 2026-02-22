@@ -93,7 +93,7 @@ Travel pages support two special frontmatter fields for the interactive map:
 ```yaml
 ---
 title: Shimla
-Date: 2024-01-15
+date: 2024-01-15
 coordinates: [31.1042, 77.171]
 ---
 
@@ -121,7 +121,7 @@ coordinates: [31.1042, 77.171]
 | Field | Purpose | Example |
 |---|---|---|
 | `coordinates` | Map pin location `[lat, lng]` | `coordinates: [31.1042, 77.171]` |
-| `Date` | Travel date | `Date: 2024-01-15` |
+| `date` | Travel date | `date: 2024-01-15` |
 
 ### Book fields
 

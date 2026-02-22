@@ -1,6 +1,6 @@
 ---
 title: Vaishno Devi
-Date:
+date:
 coordinates: [33.0274, 74.9454]
 ---
 

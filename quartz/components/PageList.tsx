@@ -26,6 +26,26 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   }
 }
 
+export const byFrontmatterDate: SortFn = (f1, f2) => {
+  // Sort by frontmatter date field (not git/filesystem dates).
+  // Pages with dates come first (newest first), undated pages at end (alphabetical).
+  const fm1 = f1.frontmatter as Record<string, unknown> | undefined
+  const fm2 = f2.frontmatter as Record<string, unknown> | undefined
+  const d1 = fm1?.date ? globalThis.Date.parse(String(fm1.date)) : NaN
+  const d2 = fm2?.date ? globalThis.Date.parse(String(fm2.date)) : NaN
+  const has1 = !isNaN(d1)
+  const has2 = !isNaN(d2)
+
+  if (has1 && has2) return d2 - d1 // newest first
+  if (has1 && !has2) return -1 // dated before undated
+  if (!has1 && has2) return 1
+
+  // Both undated: alphabetical by title
+  const t1 = f1.frontmatter?.title?.toLowerCase() ?? ""
+  const t2 = f2.frontmatter?.title?.toLowerCase() ?? ""
+  return t1.localeCompare(t2)
+}
+
 export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
     // Sort folders first

@@ -1,6 +1,6 @@
 ---
 title: Varanasi
-Date:
+date:
 coordinates: [25.3356, 83.0076]
 ---
 

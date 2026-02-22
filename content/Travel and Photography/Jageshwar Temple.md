@@ -1,6 +1,6 @@
 ---
 title: Jageshwar Temple
-Date:
+date:
 coordinates: [29.6375, 79.8543]
 ---
 

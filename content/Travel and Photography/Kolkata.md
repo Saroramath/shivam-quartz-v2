@@ -1,6 +1,6 @@
 ---
 title: Kolkata
-Date:
+date:
 coordinates: [22.5726, 88.3639]
 ---
 

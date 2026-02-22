@@ -1,6 +1,6 @@
 ---
 title: Trivendrum
-Date:
+date:
 coordinates: [8.5241, 76.9366]
 ---
 

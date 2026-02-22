@@ -1,6 +1,6 @@
 ---
 title: Narkanda
-Date:
+date:
 coordinates: [31.2548, 77.4613]
 ---
 

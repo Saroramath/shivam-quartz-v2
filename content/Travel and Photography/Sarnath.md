@@ -1,6 +1,6 @@
 ---
 title: Sarnath
-Date:
+date:
 coordinates: [25.3776, 83.0276]
 ---
 

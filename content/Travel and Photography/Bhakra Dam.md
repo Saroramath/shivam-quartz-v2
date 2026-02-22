@@ -1,6 +1,6 @@
 ---
 title: Bhakra Dam
-Date:
+date:
 coordinates: [31.4116, 76.4326]
 ---
 

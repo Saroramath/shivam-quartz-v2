@@ -1,6 +1,6 @@
 ---
 title: Udaipur, Rajasthan
-Date:
+date:
 coordinates: [24.5854, 73.7125]
 ---
 

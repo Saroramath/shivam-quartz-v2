@@ -1,6 +1,6 @@
 ---
 title: LSuC, Sardarshahar
-Date:
+date:
 coordinates: [28.44, 74.49]
 ---  
 

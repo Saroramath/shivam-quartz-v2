@@ -1,6 +1,6 @@
 ---
 title: Shimla + Kufri
-Date:
+date:
 coordinates: [31.1, 77.17]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sehatvan, Madhya Pradesh
-Date:
+date:
 coordinates: [23.25, 77.41]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kufri
-Date:
+date:
 coordinates: [31.0980, 77.2674]
 ---
 

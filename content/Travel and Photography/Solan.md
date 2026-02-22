@@ -1,6 +1,6 @@
 ---
 title: Solan
-Date:
+date:
 coordinates: [30.9045, 77.0967]
 ---
 

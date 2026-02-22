@@ -1,6 +1,6 @@
 ---
 title: Kodikanal
-Date:
+date:
 coordinates: [10.2381, 77.4892]
 ---
 

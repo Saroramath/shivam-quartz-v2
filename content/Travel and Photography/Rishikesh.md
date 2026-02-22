@@ -1,6 +1,6 @@
 ---
 title: Rishikesh
-Date:
+date:
 coordinates: [30.1087, 78.2916]
 ---
 

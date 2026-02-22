@@ -1,6 +1,6 @@
 ---
 title: Poanta Sahib
-Date:
+date:
 coordinates: [30.44, 77.62]
 ---
 

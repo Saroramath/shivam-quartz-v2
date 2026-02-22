@@ -1,6 +1,6 @@
 ---
 title: Cobbler Path, East Coast Trail
-Date:
+date:
 coordinates: [47.52, -52.72]
 ---
 

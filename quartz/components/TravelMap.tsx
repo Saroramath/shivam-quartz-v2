@@ -41,7 +41,7 @@ export default ((userOpts?: Partial<TravelMapOptions>) => {
         const coords = fm.coordinates as number[]
         const rawImg = extractFirstImageSrc(file)
         const image = rawImg && file.slug ? resolveImageToAbsolute(rawImg, file.slug as FullSlug) : null
-        const date = (fm.Date as string) ?? null
+        const date = (fm.date as string) ?? null
         return {
           title: file.frontmatter?.title ?? file.slug ?? "",
           slug: file.slug ?? "",

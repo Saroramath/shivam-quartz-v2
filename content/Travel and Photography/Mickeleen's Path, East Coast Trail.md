@@ -1,6 +1,6 @@
 ---
 title: Mickeleen's Path, East Coast Trail
-Date:
+date:
 coordinates: [47.45, -52.75]
 ---
 

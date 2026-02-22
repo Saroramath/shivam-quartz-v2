@@ -1,6 +1,6 @@
 ---
 title: Matheran 2
-Date:
+date:
 coordinates: [18.98, 73.27]
 ---
 

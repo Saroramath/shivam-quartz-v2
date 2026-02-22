@@ -1,6 +1,6 @@
 ---
 title: McLeod Ganj, Himachal Pradesh
-Date:
+date: 2017-07-26
 coordinates: [32.24, 76.32]
 ---
   

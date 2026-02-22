@@ -1,6 +1,6 @@
 ---
 title: Fort Amherst, St. John’s
-Date:
+date:
 coordinates: [47.5633, -52.6804]
 ---
 

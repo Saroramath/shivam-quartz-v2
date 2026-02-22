@@ -1,6 +1,6 @@
 ---
 title: Kanyakumari, Tamil Nadu
-Date:
+date:
 coordinates: [8.0883, 77.5385]
 ---
 

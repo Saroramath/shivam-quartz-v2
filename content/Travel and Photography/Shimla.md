@@ -1,6 +1,6 @@
 ---
 title: Shimla
-Date:
+date:
 coordinates: [31.1042, 77.171]
 ---
 

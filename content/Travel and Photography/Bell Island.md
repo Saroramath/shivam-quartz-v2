@@ -1,6 +1,6 @@
 ---
 title: Bell Island
-Date:
+date:
 coordinates: [47.633, -52.942]
 ---
 

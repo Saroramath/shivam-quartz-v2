@@ -1,6 +1,6 @@
 ---
 title: Great Himalayan National Park
-Date:
+date:
 coordinates: [31.7968, 77.7239]
 ---
 

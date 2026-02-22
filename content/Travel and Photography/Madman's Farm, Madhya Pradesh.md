@@ -1,6 +1,6 @@
 ---
 title: Madman's Farm, Madhya Pradesh
-Date:
+date:
 coordinates: [23.25, 77.41]
 ---
   

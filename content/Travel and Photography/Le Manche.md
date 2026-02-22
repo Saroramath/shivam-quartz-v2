@@ -1,6 +1,6 @@
 ---
 title: Le Manche
-Date:
+date: 2021-08-14
 coordinates: [47.1, -52.93]
 ---
 ![[IMG_2136.jpg]]

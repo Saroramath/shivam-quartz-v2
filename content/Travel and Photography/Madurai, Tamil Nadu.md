@@ -1,6 +1,6 @@
 ---
 title: Madurai, Tamil Nadu
-Date:
+date:
 coordinates: [9.9252, 78.1198]
 ---
 

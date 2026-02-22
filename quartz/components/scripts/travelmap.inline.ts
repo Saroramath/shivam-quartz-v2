@@ -1,4 +1,5 @@
 import L from "leaflet"
+import { getFullSlug, resolveRelative } from "../../util/path"
 
 // Load Leaflet CSS dynamically (can't use @import in concatenated SCSS)
 function loadLeafletCSS() {
@@ -30,12 +31,14 @@ interface LocationData {
   date: string | null
 }
 
-function buildPopupContent(loc: LocationData): string {
-  const imgHtml = loc.image
-    ? `<div class="map-preview-img"><img src="/${loc.image}" alt="${loc.title}" loading="lazy" /></div>`
+function buildPopupContent(loc: LocationData, currentSlug: string): string {
+  const resolvedHref = resolveRelative(currentSlug as any, loc.slug as any)
+  const resolvedImg = loc.image ? resolveRelative(currentSlug as any, loc.image as any) : null
+  const imgHtml = resolvedImg
+    ? `<div class="map-preview-img"><img src="${resolvedImg}" alt="${loc.title}" loading="lazy" /></div>`
     : ""
   const dateHtml = loc.date ? `<div class="map-preview-date">${loc.date}</div>` : ""
-  return `<a href="/${loc.slug}" class="map-preview-card internal" data-slug="${loc.slug}">
+  return `<a href="${resolvedHref}" class="map-preview-card internal" data-slug="${loc.slug}">
     ${imgHtml}
     <div class="map-preview-info">
       <div class="map-preview-title">${loc.title}</div>
@@ -52,6 +55,8 @@ function renderMap(container: HTMLElement) {
   if (locations.length === 0) return
 
   loadLeafletCSS()
+
+  const currentSlug = getFullSlug(window)
 
   // Clear any existing map instance
   container.innerHTML = ""
@@ -77,7 +82,7 @@ function renderMap(container: HTMLElement) {
       className: "map-preview-popup",
       maxWidth: 220,
       minWidth: 180,
-    }).setContent(buildPopupContent(loc))
+    }).setContent(buildPopupContent(loc, currentSlug))
 
     marker.bindPopup(popup)
 
@@ -97,7 +102,8 @@ function renderMap(container: HTMLElement) {
 
     // Click navigates to the page
     marker.on("click", () => {
-      window.location.href = `/${loc.slug}`
+      const href = resolveRelative(currentSlug as any, loc.slug as any)
+      window.location.href = href
     })
 
     markers.push(marker)
@@ -115,7 +121,6 @@ function renderMap(container: HTMLElement) {
     const related = (e as MouseEvent).relatedTarget as Node | null
     const popup = target.closest(".map-preview-popup")
     if (popup && related && !popup.contains(related)) {
-      // Mouse left the popup and didn't go back to marker
       map.closePopup()
     }
   })

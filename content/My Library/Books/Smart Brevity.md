@@ -2,7 +2,7 @@
 image: covers/Smart_Brevity.jpg
 Status:
   - Finished
-Timeline: Invalid date
+Timeline: 2024-09-29 → 2024-10-12
 Favorite: false
 ---
 

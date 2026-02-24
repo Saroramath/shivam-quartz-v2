@@ -2,7 +2,7 @@
 image: covers/The_Midnight_library.jpg
 Status:
   - Finished
-Timeline: Invalid date
+Timeline: 2023-03-08 → 2023-03-24
 Favorite: false
 ---
 

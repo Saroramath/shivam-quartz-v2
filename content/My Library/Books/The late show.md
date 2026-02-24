@@ -3,7 +3,7 @@ image: covers/The_late_show.jpg
 Primary Author: Michael Connelly
 Status:
   - Finished
-Timeline: Invalid date
+Timeline: 2024-07-15 → 2024-09-03
 Favorite: false
 ---
 

@@ -4,7 +4,7 @@ Entry Date: 2022-11-17
 Primary Author: Jessica Fern
 Status:
   - Finished
-Timeline: Invalid date
+Timeline: 2022-11-17 → 2022-11-22
 Favorite: false
 ---
 

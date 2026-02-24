@@ -3,7 +3,7 @@ image: covers/Pyongyang.jpg
 Primary Author: Guy Delisle
 Status:
   - Finished
-Timeline: Invalid date
+Timeline: 2024-10-31 → 2024-11-08
 Favorite: false
 ---
 

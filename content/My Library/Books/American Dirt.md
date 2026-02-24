@@ -3,7 +3,7 @@ image: covers/American_Dirt.jpg
 Primary Author: Jeanine Cummins
 Status:
   - Finished
-Timeline: Invalid date
+Timeline: 2023-01-01 → 2023-03-23
 Favorite: false
 ---
 

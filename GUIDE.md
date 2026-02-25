@@ -74,17 +74,58 @@ This automatically shows a list of all pages inside that folder.
 
 ## Gallery View
 
-To show pages as image cards instead of a list, add `cssclasses: [gallery]`:
+Any folder can display its children as image cards instead of a list. Two things are needed:
+
+1. The folder's `index.md` has `cssclasses: [gallery]` in frontmatter
+2. The folder has child pages (`.md` files) or subfolders
 
 ```yaml
 ---
-title: My Library
+title: Mathematics
 cssclasses:
   - gallery
 ---
 ```
 
 Every child page that has an image will appear as a card with its image. Pages without images show a placeholder with the first letter of the title.
+
+### What counts as a "child"
+
+- **Pages**: any `.md` file directly in the folder (e.g. `Mathematics/Hyperbolic Groups.md`)
+- **Subfolders**: a subfolder with its own `index.md` (e.g. `Mathematics/Algebra/index.md`) also appears as a card
+
+### Example: adding gallery pages to Mathematics
+
+In Obsidian, create new notes inside the Mathematics folder:
+
+```
+content/Mathematics/
+├── index.md                    # has cssclasses: [gallery]
+├── Hyperbolic Groups.md        # appears as gallery card
+├── Category Theory.md          # appears as gallery card
+└── Topology/
+    ├── index.md                # subfolder also appears as card
+    └── Knot Theory.md
+```
+
+Each page just needs content. Drag an image into the note and it becomes the card thumbnail automatically. No extra configuration needed.
+
+### Inline sub-galleries
+
+A gallery page can also render sub-folder galleries inline using the `inlineGalleries` frontmatter field:
+
+```yaml
+---
+title: My Library
+cssclasses:
+  - gallery
+inlineGalleries:
+  - Books
+  - Movies
+---
+```
+
+This renders the Books and Movies sub-folder contents as separate gallery grids on the same page, each with a heading.
 
 ## Travel Pages
 
@@ -101,7 +142,7 @@ coordinates: [31.1042, 77.171]
 ```
 
 - `coordinates: [latitude, longitude]` places a pin on the homepage map
-- `Date` is shown in the map hover preview
+- `date` is shown in the map hover preview
 - The first image in the page appears in the map hover preview
 
 ## Frontmatter Reference

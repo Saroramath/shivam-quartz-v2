@@ -1,5 +1,7 @@
 ---
+image: covers/I_Tonya.jpg
 tags:
   - Movie
-Date: Invalid date
 ---
+
+![cover](My%20Library/Movies/covers/I_Tonya.jpg)

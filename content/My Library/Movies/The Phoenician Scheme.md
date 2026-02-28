@@ -1,4 +1,7 @@
 ---
+image: covers/The_Phoenician_Scheme.jpg
 tags:
-Date: Invalid date
+  - Movie
 ---
+
+![cover](My%20Library/Movies/covers/The_Phoenician_Scheme.jpg)

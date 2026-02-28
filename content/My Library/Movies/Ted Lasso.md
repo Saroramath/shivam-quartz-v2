@@ -1,5 +1,7 @@
 ---
+image: covers/Ted_Lasso.jpg
 tags:
   - Series
-Date: Invalid date
 ---
+
+![cover](My%20Library/Movies/covers/Ted_Lasso.jpg)

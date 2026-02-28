@@ -1,7 +1,7 @@
 ---
 title: About Me
 ---
-
+![[20230430_135530_Original 2.jpg]]
 Hi! I am Shivam Arora. I am an independent researcher in AI safety and governance. I am a member at [Trajectory Labs](https://www.trajectorylabs.org), Toronto.
 
 I am deeply interested in and dedicated to understanding how AI works. I see that as a pathway to design safer AI and to convincingly demonstrate when we should stop pushing the development of AI.
@@ -13,7 +13,7 @@ E-mail: shivamaroramath at gmail dot com
 
 ---
 
-## Timeline
+## CV
 
 <div class="timeline">
 
@@ -108,17 +108,6 @@ E-mail: shivamaroramath at gmail dot com
 </div>
 
 </div>
-
-## Publications
-
-- **Leveraging hierarchical structures for genetic block interaction studies using the hierarchical transformer** (2024, Submitted) — Li, Arora, Attaoua, Hamet, Tremblay, Bihlo, Liu, Rutter
-- **Invariant Physics-Informed Neural Networks for Ordinary Differential Equations** (Oct 2023, *Journal of Machine Learning Research*) — Arora, Bihlo, Valiquette
-- **Model-agnostic machine learning of conservation laws from data** (Jan 2023, Submitted) — Arora, Bihlo, Brecht, Holba
-- **Topological groups with a compact open subgroup, Relative hyperbolicity and Coherence** (Jun 2022, *Journal of Algebra*) — Arora, Mart&iacute;nez-Pedroza
-- **Fixed Point Sets in Diagrammatically Reducible Complexes** (Jul 2021, Submitted) — Arora, Mart&iacute;nez-Pedroza
-- **Subgroups, hyperbolicity and cohomological dimension for totally disconnected locally compact groups** (Mar 2021, *Journal of Topology and Analysis*) — Arora, Castellano, Corob Cook, Mart&iacute;nez-Pedroza
-- **Subgroups of word hyperbolic groups in rational dimension 2** (Dec 2020, *Groups, Geometry, and Dynamics*) — Arora, Mart&iacute;nez-Pedroza
-- **z-Classes in finite groups of conjugate type (n,1)** (Jun 2018, *Proceeding-Mathematical Sciences*) — Arora, Gongopadhyay
 
 ## Selected Awards
 
